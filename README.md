@@ -18,7 +18,7 @@ I specialize in building responsive, fast, and intuitive interfaces that users l
 * Deep diving into modern front-end tooling & architecture
 
 ## 📂 Featured Projects
-* **[Collegiate Dance Connection](https://collegiatedanceconnection/com)** - A small business website that I designed and developed ```Astro``` ```Less``` ```JavaScript```
+* **[Collegiate Dance Connection](https://collegiatedanceconnection.com)** - A small business website that I designed and developed ```Astro``` ```Less``` ```JavaScript```
 
 * **[Dictionary App](https://npkorintus.github.io/dictionary-web-app/)** - A fully functional dictionary web app powered by the Dictionary API ```React``` ```Chakra UI``` ```CSS``` ```GitHub Actions```
 
