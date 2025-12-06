@@ -12,7 +12,7 @@ I specialize in building responsive, fast, and intuitive interfaces that users l
 *   **Concepts:** Responsive Design, RESTful APIs, Agile/Scrum, Web Accessibility
 
 ## 🚧 Currently Focused On
-* Building highly performant front-end applications
+* Building highly performant web sites and front-end applications
 * Improving UI design and interactions with a focus on accessibility
 * Crafting reusable components and patterns for long-term scalability
 * Deep diving into modern front-end tooling & architecture
