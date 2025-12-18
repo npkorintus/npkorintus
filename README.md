@@ -13,9 +13,8 @@ I specialize in building responsive, fast, and intuitive interfaces that users l
 
 ## 🚧 Currently Focused On
 * Building highly performant web sites and front-end applications
-* Improving UI design and interactions with a focus on accessibility
-* Crafting reusable components and patterns for long-term scalability
-* Deep diving into modern front-end tooling & architecture
+* Deep diving into modern front-end tooling & architectural approaches
+* Getting back into full stack development by exploring Node.js, Express.js, and PostgreSQL
 
 ## 📂 Featured Projects
 * **[Collegiate Dance Connection](https://collegiatedanceconnection.com)** - A small business website that I designed and developed ```Astro``` ```Less``` ```JavaScript```
