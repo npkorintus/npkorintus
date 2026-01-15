@@ -18,9 +18,7 @@ I specialize in building responsive, fast, and intuitive interfaces that users l
 
 ## 📂 Featured Projects
 * **[Collegiate Dance Connection](https://collegiatedanceconnection.com)** - A small business website that I designed and developed
-
 * **[Dictionary App](https://npkorintus.github.io/dictionary-web-app/)** - A fully functional dictionary web app powered by the Dictionary API
-
 * **[Space Tourism](https://nk-space-tourism.netlify.app/)** - A responsive, multi-page landing website for a fictional space tourism company
 
 ## 🌐 Connect With Me
